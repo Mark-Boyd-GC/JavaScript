@@ -1,7 +1,6 @@
 console.clear();
 
 // Destructuring
-
 const arr = ['The Crow', 'The Cranberries', 'Cheesecake'];
 const [movie, music, food] = arr;
 console.log(movie, music, food);
