@@ -14,6 +14,7 @@ sayHi('Ilia');
 
 // Callback
 const farewell = name => console.log(`Goodbye, ${name}`);
+
 const greeting = (name, callback) => {
   console.log(`Hello, ${name}`);
 
